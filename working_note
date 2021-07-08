@@ -1,0 +1,9 @@
+Data:21.7.6
+构建 Bilstm--version tagger model
+通过指定 params: “task” 来确定进行哪一项标注任务（NER/POS）
+
+Data:21.7.7
+模型训练框架（train）以及预测客户端(tagger)
+Bert-based--version (with lstm or not)
+
+
